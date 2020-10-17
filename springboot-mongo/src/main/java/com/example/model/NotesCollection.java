@@ -37,13 +37,13 @@ public class NotesCollection {
 
     // @Override
     // public String toString() {
-    //     // return "Users{" +
-    //     //         "id='" + id + '\'' +
-    //     //         ", title='" + title + '\'' +
-    //     //         ", description='" + description + 
-    //     //         '}';
-    //     // return "Users{", title='" + title + '\'' +
-    //     //         ", description='" + description + 
-    //     //         '}';
+    //     return "Users{" +
+    //             "id='" + id + '\'' +
+    //             ", title='" + title + '\'' +
+    //             ", description='" + description + 
+    //             '}';
+    //     return "Users{", title='" + title + '\'' +
+    //             ", description='" + description + 
+    //             '}';
     // }
 }
